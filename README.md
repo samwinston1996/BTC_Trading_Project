@@ -1,5 +1,5 @@
 # BTC Trading Project
-Welcome to the BTC Trading Project! This repository contains a sophisticated trading bot designed to trade Bitcoin using advanced reinforcement learning techniques. Whether you're an experienced trader or a developer interested in financial algorithms, our project has something to offer.
+Welcome to the BTC Trading Project! This repository contains a trading bot designed to trade Bitcoin using advanced reinforcement learning techniques. Whether you're an experienced trader or a developer interested in financial algorithms, our project has something to offer.
 
 ## Overview
 The BTC Trading Project leverages the power of reinforcement learning to create a trading agent that can make informed decisions in the highly volatile Bitcoin market. The project uses the Proximal Policy Optimization (PPO) algorithm from the Stable Baselines library, integrated with a custom trading environment.
